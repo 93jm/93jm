@@ -2,7 +2,13 @@
 
 <p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p>
+  Hi.
+I am a front-end developer with experience in QA work.
+Also, I am interested in technology that can change the world and value the time when I can develop myself, so I believe in the word "record is better than memory" and always put it into practice.
+</p>
+
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-005571?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
@@ -10,7 +16,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> Me :) </h3>
+<h3 align="center"> Contact </h3>
 <p align="center">
   <a href="https://velog.io/@93jm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@93jm"/></a>&nbsp
   <a href="https://www.instagram.com/meeeeen93/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meeeeen93/"/></a>&nbsp
