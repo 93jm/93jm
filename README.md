@@ -5,8 +5,8 @@
 <p align="center">
   Hi.
 I am a front-end developer with experience in QA work.<br>
-Also, I am interested in technology that can change the world<br>
-  and value the time when I can develop myself, so I believe in the word "record is better than memory" and always put it into practice.
+Also, I am interested in technology that can change the world and value the time when I can develop myself,<br>
+  so I believe in the word "record is better than memory" and always put it into practice.
 </p>
 
 <h3 align="center">Tech Stack</h3>
