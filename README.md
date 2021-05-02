@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&width=10&section=header&text=JungMinLee&fontSize=50&animation=twinkling)
 
-<p align="center">Living in 🇰🇷</p>
+<p align="center">🇰🇷</p>
 
 <p align="center">
   Hi.
