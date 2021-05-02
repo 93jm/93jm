@@ -4,9 +4,9 @@
 
 <p align="center">
   Hi.
-I am a front-end developer with experience in QA work.<br>
-Also, I am interested in technology that can change the world and value the time when I can develop myself,<br>
-  so I believe in the word "record is better than memory" and always put it into practice.
+I'm a front-end developer with experience in QA work.<br>
+also, I'm interested in technology that can change the world and value the time when I can develop myself,<br>
+  so I believe in the word "Record is better than Memory" and I always write it on my blog or github.
 </p>
 
 <h3 align="center">Tech Stack</h3>
