@@ -2,7 +2,7 @@
 
 <p align="center">🇰🇷</p>
 
-<p>
+<p align="center">
   Hi.
 I am a front-end developer with experience in QA work.<br>
 Also, I am interested in technology that can change the world and value the time when I can develop myself, so I believe in the word "record is better than memory" and always put it into practice.
