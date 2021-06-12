@@ -13,7 +13,7 @@ also, I'm interested in technology that can change the world and value the time 
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-005571?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node&logoColor=white"/></a> &nbsp
 <!--   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/HTML-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
