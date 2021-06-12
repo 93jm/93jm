@@ -11,7 +11,7 @@ also, I'm interested in technology that can change the world and value the time 
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/REACT-005571?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/REACT-005571?style=flat-square&logo=&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node&logoColor=white"/></a> &nbsp
 <!--   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp -->
