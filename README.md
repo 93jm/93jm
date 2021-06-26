@@ -17,7 +17,7 @@ also, I'm interested in technology that can change the world and value the time 
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white"/></a>&nbsp -->
 </p>
 
 <h3 align="center"> Contact </h3>
