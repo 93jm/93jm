@@ -11,17 +11,34 @@ also, I'm interested in technology that can change the world and value the time 
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/REACT-005571?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/NEXT-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GraphQL-DE33A6?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/REACT-005571?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/NEXT-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=black"/></a>&nbsp 
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node&logoColor=white"/></a> &nbsp
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  </a>
+  <a href="https://graphql.org/">
+    <img src="https://img.shields.io/badge/GraphQL-DE33A6?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   </a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white"/></a>&nbsp  
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white"/></a>&nbsp  
+  </a>
 </p>
 
 <h3 align="center"> Contact </h3>
