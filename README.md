@@ -17,7 +17,6 @@ also, I'm interested in technology that can change the world and value the time 
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/NEXT-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=black"/></a>&nbsp 
   </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   </a>
@@ -43,6 +42,7 @@ also, I'm interested in technology that can change the world and value the time 
 
 <h3 align="center"> Contact </h3>
 <p align="center">
+  <a href="https://93jm.notion.site/7cbfb7a93236454ab3e10f3d16780ad4?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black&link=https://93jm.notion.site/7cbfb7a93236454ab3e10f3d16780ad4?pvs=4"/></a>&nbsp
   <a href="https://velog.io/@93jm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@93jm"/></a>&nbsp
   <a href="https://www.instagram.com/meeeeen93/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meeeeen93/"/></a>&nbsp
   <a href="mailto:mjuikl7588@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mjuikl7588@gmail.com"/></a>
